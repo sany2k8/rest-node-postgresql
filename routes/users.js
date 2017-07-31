@@ -1,0 +1,13 @@
+/**
+ * Created by Sany on 3/29/17.
+ */
+
+var express = require('express');
+var router = express.Router();
+
+/* GET users listing. */
+router.get('/', function(req, res) {
+  res.render('index');
+});
+
+module.exports = router;

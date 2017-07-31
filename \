@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = git@github.com:sany2k8/rest-node-postgresql.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
