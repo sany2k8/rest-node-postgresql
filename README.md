@@ -6,15 +6,20 @@ RESTful web services are light weight, highly scalable and maintainable and are 
 
 ### Install Required packages
 
-> $ npm install express-generator@4 -g
+> $ npm install express-generator@4 -g 
+
 > $ npm install pg-promise@5 --save
+
 > $ npm install bluebird@3 --save
+
 > $ npm install nodemon@1 --save
 
 ### Generate Express project & download project dependencies
 
 > $ express rest-node-postgres
+
 > $ cd rest-node-postgres
+
 > $ npm install
 
 
