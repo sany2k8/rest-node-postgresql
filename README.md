@@ -25,5 +25,5 @@ $ npm install
 ### Run project
 
 $ npm start# rest-node-postgresql
-# rest-node-postgresql
-# rest-node-postgresql
+
+
